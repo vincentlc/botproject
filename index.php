@@ -1,5 +1,5 @@
 <?php
+echo "hello World";
 
-print_r($_GET["hub_challenge"]);
 
 ?>
